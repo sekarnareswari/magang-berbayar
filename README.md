@@ -1,1 +1,1 @@
-# magangberbayar
+# Magang Berbayar
