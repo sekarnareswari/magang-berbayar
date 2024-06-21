@@ -26,25 +26,24 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/magangberbayar.git
-cd job-board
+git clone https://github.com/yourusername/magang-berbayar.git
+cd magang-berbayar
 ```
 2. Install dependencies:
-bash
-Copy code
+```
 npm install
 # or
 yarn install
-Set up MongoDB:
-If you are using a local MongoDB instance, ensure that MongoDB is running on mongodb://localhost:27017.
-If you are using MongoDB Atlas, create a new cluster and get the connection string.
-Set up environment variables:
+```
+3. Set up MongoDB:
+- If you are using a local MongoDB instance, ensure that MongoDB is running on mongodb://localhost:27017.
+- If you are using MongoDB Atlas, create a new cluster and get the connection string.
+4. Set up environment variables:
 Create a .env.local file in the root of the project and add the following:
-
-env
-Copy code
+```
 MONGODB_URI=mongodb://localhost:27017/job-board
 # or
 MONGODB_URI=your-mongodb-atlas-connection-string
 
 NEXT_PUBLIC_API_URL=http://localhost:3000/api
+```
