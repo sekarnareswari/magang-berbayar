@@ -26,9 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 1. Clone the repository:
 ```
-bash
-Copy code
-git clone https://github.com/yourusername/job-board.git
+git clone https://github.com/yourusername/magangberbayar.git
 cd job-board
 ```
 2. Install dependencies:
