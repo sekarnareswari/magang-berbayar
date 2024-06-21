@@ -2,32 +2,36 @@
 This project is a job board platform that allows users to view job listings and get directed to the respective job portals. It is built using React, Tailwind CSS, Next.js, Python, and MongoDB, and hosted on Vercel.
 
 ## Table of Contents
-Getting Started
-Prerequisites
-Installation
-Running the Project
-Project Structure
-API Routes
-Database Schema
-Deployment
-Contributing
-License
-Getting Started
+- Getting Started
+- Prerequisites
+- Installation
+- Running the Project
+- Project Structure
+- API Routes
+- Database Schema
+- Deployment
+- Contributing
+- License
+
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Prerequisites
-Node.js (version 14.x or later)
-npm (version 6.x or later) or yarn (version 1.x or later)
-Python (version 3.x)
-MongoDB (local installation or MongoDB Atlas)
-Git
-Installation
-Clone the repository:
+### Prerequisites
+- Node.js (version 14.x or later)
+- npm (version 6.x or later) or yarn (version 1.x or later)
+- Python (version 3.x)
+- MongoDB (local installation or MongoDB Atlas)
+- Git
+
+### Installation
+1. Clone the repository:
+```
 bash
 Copy code
 git clone https://github.com/yourusername/job-board.git
 cd job-board
-Install dependencies:
+```
+2. Install dependencies:
 bash
 Copy code
 npm install
