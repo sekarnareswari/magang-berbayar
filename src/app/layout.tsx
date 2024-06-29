@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 
+import Header from "./components/header";
+
 export const metadata: Metadata = {
     title: "Magang Berbayar",
     description: "Indonesian paid internship board",
@@ -16,7 +18,10 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
-            <body className={pjs.className}>{children}</body>
+            <body className={pjs.className}>
+                <Header />
+                <main>{children}</main>
+            </body>
         </html>
     );
 }

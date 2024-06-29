@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Listing from "./listing";
 
 interface Job {
     title: string;
@@ -20,21 +21,19 @@ export default function Listings() {
     }, []);
 
     return (
-        <div>
+        <section id="listings">
             {jobs.map((job, index) => (
-                <div key={index}>
-                    <h2>{job.title}</h2>
-                    <p>
-                        <strong>Company:</strong> {job.company}
-                    </p>
-                    <p>
-                        <strong>Location:</strong> {job.location}
-                    </p>
-                    <p>
-                        <strong>Description:</strong> {job.description}
-                    </p>
-                </div>
+                <Listing
+                    key={index}
+                    logo={job.title}
+                    company={job.company}
+                    position={job.title}
+                    location={job.location}
+                    arrangement={job.title}
+                    pay={job.title}
+                    link={job.title}
+                ></Listing>
             ))}
-        </div>
+        </section>
     );
 }

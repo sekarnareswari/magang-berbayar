@@ -383,6 +383,26 @@ eval("// Exports\nmodule.exports = {\n\t\"style\": {\"fontFamily\":\"'__Plus_Jak
 
 /***/ }),
 
+/***/ "(rsc)/./node_modules/next/font/local/target.css?{\"path\":\"src/app/components/header.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../../../public/fonts/CalSans SemiBold.woff2\"}],\"variableName\":\"calSans\"}":
+/*!****************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/font/local/target.css?{"path":"src/app/components/header.tsx","import":"","arguments":[{"src":"../../../public/fonts/CalSans SemiBold.woff2"}],"variableName":"calSans"} ***!
+  \****************************************************************************************************************************************************************************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"style\": {\"fontFamily\":\"'__calSans_f38f0a', '__calSans_Fallback_f38f0a'\"},\n\t\"className\": \"__className_f38f0a\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9mb250L2xvY2FsL3RhcmdldC5jc3M/e1wicGF0aFwiOlwic3JjL2FwcC9jb21wb25lbnRzL2hlYWRlci50c3hcIixcImltcG9ydFwiOlwiXCIsXCJhcmd1bWVudHNcIjpbe1wic3JjXCI6XCIuLi8uLi8uLi9wdWJsaWMvZm9udHMvQ2FsU2FucyBTZW1pQm9sZC53b2ZmMlwifV0sXCJ2YXJpYWJsZU5hbWVcIjpcImNhbFNhbnNcIn0iLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBLFdBQVcsK0RBQStEO0FBQzFFO0FBQ0EiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9tYWdhbmctYmVyYmF5YXIvLi9ub2RlX21vZHVsZXMvbmV4dC9mb250L2xvY2FsL3RhcmdldC5jc3M/NWNkOSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJzdHlsZVwiOiB7XCJmb250RmFtaWx5XCI6XCInX19jYWxTYW5zX2YzOGYwYScsICdfX2NhbFNhbnNfRmFsbGJhY2tfZjM4ZjBhJ1wifSxcblx0XCJjbGFzc05hbWVcIjogXCJfX2NsYXNzTmFtZV9mMzhmMGFcIlxufTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/font/local/target.css?{\"path\":\"src/app/components/header.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../../../public/fonts/CalSans SemiBold.woff2\"}],\"variableName\":\"calSans\"}\n");
+
+/***/ }),
+
+/***/ "(rsc)/./node_modules/next/font/local/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../../public/fonts/CalSans SemiBold.woff2\"}],\"variableName\":\"calSans\"}":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/font/local/target.css?{"path":"src/app/page.tsx","import":"","arguments":[{"src":"../../public/fonts/CalSans SemiBold.woff2"}],"variableName":"calSans"} ***!
+  \************************************************************************************************************************************************************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"style\": {\"fontFamily\":\"'__calSans_f38f0a', '__calSans_Fallback_f38f0a'\"},\n\t\"className\": \"__className_f38f0a\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9mb250L2xvY2FsL3RhcmdldC5jc3M/e1wicGF0aFwiOlwic3JjL2FwcC9wYWdlLnRzeFwiLFwiaW1wb3J0XCI6XCJcIixcImFyZ3VtZW50c1wiOlt7XCJzcmNcIjpcIi4uLy4uL3B1YmxpYy9mb250cy9DYWxTYW5zIFNlbWlCb2xkLndvZmYyXCJ9XSxcInZhcmlhYmxlTmFtZVwiOlwiY2FsU2Fuc1wifSIsIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0EsV0FBVywrREFBK0Q7QUFDMUU7QUFDQSIsInNvdXJjZXMiOlsid2VicGFjazovL21hZ2FuZy1iZXJiYXlhci8uL25vZGVfbW9kdWxlcy9uZXh0L2ZvbnQvbG9jYWwvdGFyZ2V0LmNzcz81Y2Q5Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIEV4cG9ydHNcbm1vZHVsZS5leHBvcnRzID0ge1xuXHRcInN0eWxlXCI6IHtcImZvbnRGYW1pbHlcIjpcIidfX2NhbFNhbnNfZjM4ZjBhJywgJ19fY2FsU2Fuc19GYWxsYmFja19mMzhmMGEnXCJ9LFxuXHRcImNsYXNzTmFtZVwiOiBcIl9fY2xhc3NOYW1lX2YzOGYwYVwiXG59O1xuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/font/local/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../../public/fonts/CalSans SemiBold.woff2\"}],\"variableName\":\"calSans\"}\n");
+
+/***/ }),
+
 /***/ "(ssr)/./node_modules/next/dist/client/add-base-path.js":
 /*!********************************************************!*\
   !*** ./node_modules/next/dist/client/add-base-path.js ***!

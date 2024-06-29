@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_62_365)">
+<ellipse cx="12" cy="12" rx="4" ry="4" fill="#023C40"/>
+<circle r="8" fill="#023C40"/>
+<circle cx="24" r="8" fill="#023C40"/>
+<circle cy="24" r="8" fill="#023C40"/>
+<circle cx="24" cy="24" r="8" fill="#023C40"/>
+</g>
+<defs>
+<clipPath id="clip0_62_365">
+<rect width="24" height="24" rx="2" fill="white"/>
+</clipPath>
+</defs>
+</svg>

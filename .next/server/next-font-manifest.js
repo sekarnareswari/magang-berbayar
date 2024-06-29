@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/sekar/Desktop/magang-berbayar/src/app/layout\":[\"static/media/2b3f1035ed87a788-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/sekar/Desktop/magang-berbayar/src/app/page\":[\"static/media/90475aac776488b6-s.p.woff2\"],\"/Users/sekar/Desktop/magang-berbayar/src/app/layout\":[\"static/media/2b3f1035ed87a788-s.p.woff2\",\"static/media/90475aac776488b6-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
