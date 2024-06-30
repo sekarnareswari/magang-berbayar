@@ -1,15 +1,122 @@
 [
     {
-      "title": "Software Engineer",
-      "company": "Tech Corp",
-      "location": "San Francisco, CA",
-      "description": "Develop and maintain web applications."
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
     },
     {
-      "title": "Data Scientist",
-      "company": "Data Inc.",
-      "location": "New York, NY",
-      "description": "Analyze and interpret complex data."
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
+    },
+    {
+        "logo": "/images/companylogo/ukirama.jpeg",
+        "company": "Ukirama",
+        "position": "Social Media Intern (Paid)",
+        "location": "Central Jakarta",
+        "arrangement": "On-site",
+        "pay": "Undisclosed",
+        "link": "insert link here",
+        "description": "insert desc here"
     }
-  ]
-  
+]

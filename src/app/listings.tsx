@@ -2,38 +2,44 @@
 
 import { useEffect, useState } from "react";
 import Listing from "./listing";
+import Container from "./components/container";
 
-interface Job {
-    title: string;
+interface ListingProps {
+    logo: string;
     company: string;
+    position: string;
     location: string;
-    description: string;
+    arrangement: string;
+    pay: string;
+    link: string;
 }
 
 export default function Listings() {
-    const [jobs, setJobs] = useState<Job[]>([]);
+    const [listing, setJobs] = useState<ListingProps[]>([]);
 
     useEffect(() => {
         fetch("/joblistings.json")
             .then((response) => response.json())
-            .then((data: Job[]) => setJobs(data))
+            .then((data: ListingProps[]) => setJobs(data))
             .catch((error) => console.error("Error fetching jobs:", error));
     }, []);
 
     return (
         <section id="listings">
-            {jobs.map((job, index) => (
-                <Listing
-                    key={index}
-                    logo={job.title}
-                    company={job.company}
-                    position={job.title}
-                    location={job.location}
-                    arrangement={job.title}
-                    pay={job.title}
-                    link={job.title}
-                ></Listing>
-            ))}
+            <Container className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 py-24 gap-4 md:gap-8">
+                {listing.map((job, index) => (
+                    <Listing
+                        key={index}
+                        logo={job.logo}
+                        company={job.company}
+                        position={job.position}
+                        location={job.location}
+                        arrangement={job.arrangement}
+                        pay={job.pay}
+                        link={job.link}
+                    />
+                ))}
+            </Container>
         </section>
     );
 }

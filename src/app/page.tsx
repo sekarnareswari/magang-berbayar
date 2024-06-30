@@ -9,7 +9,7 @@ const calSans = localFont({
 export default function Home() {
     return (
         <>
-            <section id="hero" className="py-48">
+            <section id="hero" className="pt-48 pb-24">
                 <div className="flex flex-col items-center max-w-screen-md px-4 sm:px-12 mx-auto">
                     <h1
                         className={` ${calSans.className} text-5xl sm:text-7xl md:text-8xl font-semibold mb-2 text-center`}
@@ -21,13 +21,13 @@ export default function Home() {
                     >
                         Get paid.
                     </h1>
-                    <p className="text-xl text-center leading-relaxed mb-12">
+                    <p className="max-w-xl text-xl text-center leading-relaxed mb-12">
                         A job board for paid internships in Indonesia, aiming to
                         transform the unpaid internship culture.
                     </p>
                     <Button
                         type="scroll"
-                        label="See open positions"
+                        label="View open positions"
                         targetId="listings"
                     ></Button>
                 </div>
